@@ -16,4 +16,4 @@ Tools Used
  4.Test the rule by attempting to connect to that port locally or remotely.
  5.Add rule to allow SSH (port 22) if on Linux.
  6.Remove the test block rule to restore original state.
- 7.Summarize how firewall filters traffic
+ 7.Summarize how firewall filters traffic.
